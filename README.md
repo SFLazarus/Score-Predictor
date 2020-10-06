@@ -86,12 +86,11 @@ score2 | Away team's score
 ### Readme.md
 - Project description
 ### Data
-- Contains raw data files in csv format
+- Contains link to download dataset.
 ### Notebooks
 - Jupyter Notebook for Exploratory data analysis, Visualization, Feature Engineering and Clustering.
 ### Reports
-- plot- popularity of genres
-- Plot- Kmeans Clusters
-- Plot- Agglomerative Clusters
+- plot- Comparing Mean Squared Error for each model -mse_comparison.png
+- Plot- Comparing Mean Absolute Error for each model -mae_comparison.png
 ### Requirements.txt
 - Info about Tools, frameworks and libraries required to reproduce the work flow
