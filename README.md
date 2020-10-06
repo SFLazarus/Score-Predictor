@@ -1,5 +1,5 @@
 # Score-Predictor
-Built Score Predictor using few Regression models to predict scores for each NFL team.
+Built Score Predictor using few Regression models to predict scores for each MLB team.
 
 # Problem Statement:
 ### NFL, MLB, NBA and Soccer scores
